@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Travail\\CrewFinder\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,217,342,456,555,622,690,749,820,891,988,1061,1134,1218,1321,1385,1452",
+                        "endColumns": "161,124,113,98,66,67,58,70,70,96,72,72,83,102,63,66,138",
+                        "endOffsets": "212,337,451,550,617,685,744,815,886,983,1056,1129,1213,1316,1380,1447,1586"
+                    }
+                }
+            ]
+        }
+    ]
+}
