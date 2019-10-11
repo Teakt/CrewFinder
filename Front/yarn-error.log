@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add depencies
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add dependencies
 
 PATH: 
   C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Java\jre1.8.0_201\bin;C:\Users\Travail\AppData\Local\Microsoft\WindowsApps;C:\Users\Travail\AppData\Local\GitHubDesktop\bin;C:\Users\Travail\AppData\Local\Microsoft\WindowsApps;C:\Users\Travail\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Travail\AppData\Roaming\npm;C:\Users\Travail\AppData\Local\Yarn\bin
@@ -14,17 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/depencies: Not found
-      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:65939:18)
-      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140464:22)
-      at Request.emit (events.js:203:13)
-      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141436:10)
-      at Request.emit (events.js:203:13)
-      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141358:12)
-      at Object.onceWrapper (events.js:291:20)
-      at IncomingMessage.emit (events.js:208:15)
-      at endReadableNT (_stream_readable.js:1168:12)
-      at processTicksAndRejections (internal/process/task_queues.js:77:11)
+  Error: EPERM: operation not permitted, copyfile 'C:\Users\Travail\AppData\Local\Yarn\Cache\v4\npm-rxjs-5.5.12-6fa61b8a77c3d793dbaf270bee2f43f652d741cc\node_modules\rxjs\src\observable\dom\webSocket.ts' -> 'C:\Users\Travail\Desktop\Esiea4A_Semestre1\CrewFinder\Front\node_modules\metro-inspector-proxy\node_modules\rxjs\src\observable\dom\webSocket.ts'
 
 npm manifest: 
   {

@@ -1,5 +1,5 @@
 import React from 'react'
-import Search from './components/Search'
+
 
 import {
   StyleSheet,
@@ -12,8 +12,8 @@ import {
 
 } from 'react-native'
 
-import bgImage from './images/dark.jpg'
-import logo from './images/logo.png'
+import bgImage from '../images/background.png'
+import logo from '../images/logo.png'
 
 
 
@@ -44,9 +44,8 @@ export default class Login extends React.Component {
 
 const styles = StyleSheet.create({
     backgroundContainer: {
-      flex : 1 ,
-      justifyContent: 'center',
-      alignItems: 'center',
+      flex : 0 ,
+      
 
     },
 
