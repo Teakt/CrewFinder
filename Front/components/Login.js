@@ -1,6 +1,7 @@
 import React from 'react'
 
 
+
 import {
   StyleSheet,
   Text,
@@ -21,10 +22,20 @@ const { width: WIDTH } = Dimensions.get('window')
 
 export default class Login extends React.Component {
   render() {
+
+
+    var _this = this;
+
+
+
+
+
     return (
   
 
       
+      
+
       
       <ImageBackground source={bgImage} style={styles.backgroundContainer}>
             <View style={styles.logoContainer}>
@@ -32,10 +43,17 @@ export default class Login extends React.Component {
               <Text style={styles.logoText}>CREW FINDER</Text>
             </View>
 
+            <View style={{flex : 1 , backgroundContainer : "blue" , alignItems : "center" }}>
+                
+            </View>
+            
+           
 
            
             
       </ImageBackground>
+      
+     
       
     )
   }
@@ -45,20 +63,27 @@ export default class Login extends React.Component {
 const styles = StyleSheet.create({
     backgroundContainer: {
       flex : 0 ,
-      
+      width : '100%' ,
+      height : '100%' , 
 
     },
 
     logoText:{
       color : 'white' ,
-      fontSize : 20, 
-      fontWeight : '500',
+      fontSize : 35, 
+      fontWeight : '800',
       marginTop : 10 ,
-      opacity : 0.5
+      opacity : 1
     },
 
+
+    facebook:{
+      marginBottom : 30 ,
+    },
     logoContainer:{
+      flex : 1 ,
       alignItems: 'center',
+      marginTop : 60 ,
       
       
     },
@@ -66,6 +91,7 @@ const styles = StyleSheet.create({
     logo:{
       width: 120,
       height:120,
+      
       
     },
 

@@ -13,8 +13,6 @@ import java.util.ArrayList;
 import com.crewfinder.BuildConfig;
 import com.crewfinder.R;
 
-// react-native-facebook-login
-import com.magus.fblogin.FacebookLoginPackage;
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
 
@@ -50,7 +48,6 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
-      new FacebookLoginPackage(),
       new VectorIconsPackage()
     ));
   }

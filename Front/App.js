@@ -18,10 +18,6 @@ import {
 
 
 
-import bgImage from './images/dark.jpg'
-import logo from './images/logo.png'
-import Icon from 'react-native-vector-icons/Ionicons'
-
 
 const { width: WIDTH } = Dimensions.get('window')
 

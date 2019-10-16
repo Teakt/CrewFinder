@@ -20,18 +20,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_white_large.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\messenger_button_send_white_large.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_media_action.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
@@ -100,10 +88,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -120,16 +104,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
@@ -192,20 +168,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_button_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_button_icon_blue.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_rn_dev_preferences.xml.flat",
@@ -228,10 +196,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_blue_bg_round.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\messenger_button_blue_bg_round.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -252,20 +216,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\messenger_bubble_small_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_round.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\messenger_button_white_bg_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_header_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
@@ -280,16 +232,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_selector.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\messenger_button_white_bg_selector.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -316,20 +260,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser_actions_context_menu_page.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6366d9dfdaa5dfffe0ed7969abc1f3d8\\res\\layout\\browser_actions_context_menu_page.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -340,28 +276,24 @@
         "source": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_icon.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_button_icon.xml"
+        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
@@ -400,24 +332,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\messenger_bubble_large_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_white_round.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\messenger_button_send_white_round.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_small.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\messenger_button_send_blue_small.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -440,16 +360,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_template_media.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
@@ -466,10 +378,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_browser_actions_context_menu_row.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6366d9dfdaa5dfffe0ed7969abc1f3d8\\res\\layout\\browser_actions_context_menu_row.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -496,10 +404,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_send_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_button_send_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
@@ -516,16 +420,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\messenger_bubble_small_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -544,20 +440,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -592,10 +480,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -624,12 +508,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -664,10 +548,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -686,14 +566,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -716,10 +588,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_login_fragment.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\com_facebook_login_fragment.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -740,10 +608,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\7d8a1440bef659c74dab853f5044d254\\res\\layout\\redbox_view.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_button_like_icon_selected.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fps_view.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\7d8a1440bef659c74dab853f5044d254\\res\\layout\\fps_view.xml"
     },
@@ -752,16 +616,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -776,16 +632,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_xout.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -872,10 +720,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_portrait.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\layout\\notification_template_icon_group.xml"
     },
@@ -892,16 +736,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\messenger_button_send_round_shadow.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -922,10 +758,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\messenger_bubble_large_white.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -954,10 +786,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1020,20 +848,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_button_like_icon_selected.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1048,20 +868,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-v21\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_button_icon_blue.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_button_icon_white.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1108,16 +920,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_button_send_icon_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1130,10 +934,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_favicon_blue.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_favicon_blue.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1150,10 +950,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
@@ -1176,16 +972,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\messenger_bubble_large_blue.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\anim\\abc_tooltip_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_blue.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1216,10 +1004,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_large.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\messenger_button_send_blue_large.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_btn_borderless_material.xml"
     },
@@ -1244,32 +1028,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_device_auth_dialog_fragment.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
@@ -1280,10 +1044,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon_blue.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\anim\\abc_tooltip_enter.xml"
     },
@@ -1292,28 +1052,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_list_divider_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_close.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_like_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_button_like_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1352,20 +1092,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\messenger_bubble_large_blue.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_close.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_close.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -1376,20 +1104,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_white_small.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\messenger_button_send_white_small.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color-v23\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1400,28 +1120,16 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_tooltip_bubble.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\com_facebook_tooltip_bubble.xml"
+        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1438,10 +1146,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -1484,10 +1188,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_round.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\messenger_button_send_blue_round.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -1508,16 +1208,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_button_icon_blue.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -1528,24 +1220,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\messenger_button_send_round_shadow.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1576,12 +1256,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\7d8a1440bef659c74dab853f5044d254\\res\\anim\\catalyst_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
@@ -1604,24 +1284,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\messenger_bubble_small_blue.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png"
+        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1660,14 +1328,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_com_facebook_send_button_text_color.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\color\\com_facebook_send_button_text_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
@@ -1678,10 +1338,6 @@
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_send_button_icon.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_send_button_icon.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -1728,16 +1384,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1776,10 +1424,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -1788,24 +1432,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\9144b83771f1cc99f1cdc73e959a49f8\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_profile_picture_blank_square.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1820,10 +1452,6 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_blue_bg_selector.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\messenger_button_blue_bg_selector.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\color\\abc_secondary_text_material_light.xml"
     },
@@ -1832,16 +1460,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\com_facebook_button_send_icon_white.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_button_icon_white.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_fade_in.xml.flat",
@@ -1892,16 +1512,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\6e2fe3c5354b8c3d78f4b4db09d798f2\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1932,28 +1544,8 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_com_facebook_activity_layout.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\layout\\com_facebook_activity_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_close.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_close.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_login_silver_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable\\com_facebook_button_login_silver_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_com_facebook_button_text_color.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\color\\com_facebook_button_text_color.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1968,20 +1560,16 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-mdpi-v4\\com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
@@ -1992,20 +1580,12 @@
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
-    },
-    {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\093564b8b4c735422e5937ea2c03e27b\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "C:\\Users\\Travail\\.gradle\\caches\\transforms-2\\files-2.1\\99f80c38461eebaad6fe623de62f5dbb\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
         "merged": "C:\\Users\\Travail\\Desktop\\Esiea4A_Semestre1\\CrewFinder\\Front\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
