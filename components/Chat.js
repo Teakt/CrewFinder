@@ -17,6 +17,7 @@ import {
 
 import bgImage from '../images/background.png'
 import logo from '../images/logo.png'
+import App from '../App'
 
 
 
@@ -42,15 +43,15 @@ export default class Login extends React.Component {
       <ImageBackground source={bgImage} style={styles.backgroundContainer}>
             <View style={styles.logoContainer}>
               <Image source={logo} style={styles.logo}/>
-              <Text style={styles.logoText}>CREW FINDER</Text>
+              <Text style={styles.logoText}>PAGE 1 </Text>
             </View>
 
            
 
             <View style={styles.button}>
             <Button
-              title="Login"
-              onPress={() => this.props.navigation.navigate('Page1')}
+              title="MIAOU"
+              onPress={() => this.props.navigation.navigate('Login')}
               />
             </View>
             
