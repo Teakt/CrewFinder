@@ -5,6 +5,7 @@ import React from 'react'
 import Navigation from './navigation/Navigation'
 import Login from './components/Login'
 import Chat from './components/Chat'
+import Finder from './components/Finder'
 
 import {
   StyleSheet,
@@ -36,12 +37,8 @@ const { width: WIDTH } = Dimensions.get('window')
     return (
   
 
-      <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-        <Text>Home Screen</Text>
-        <Button
-          title="Go to Details"
-          onPress={() => this.props.navigation.navigate('Login')}
-        />
+      <View>
+        
       </View>
       
      
@@ -55,7 +52,8 @@ const { width: WIDTH } = Dimensions.get('window')
 const AppNavigator = createStackNavigator(
   {
     Login: Login,
-    Page1: Chat,
+    Page1: Finder,
+    Page2: Chat,
     
   },
   {
