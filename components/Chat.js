@@ -3,6 +3,8 @@ import React from 'react'
 import { createStackNavigator} from 'react-navigation-stack'
 import {  createAppContainer } from 'react-navigation'
 
+import { GiftedChat } from 'react-native-gifted-chat'
+
 import {
   StyleSheet,
   Text,
@@ -17,12 +19,43 @@ import {
 
 import bgImage from '../images/background.png'
 import logo from '../images/logo.png'
+import App from '../App'
 
 
 
 const { width: WIDTH } = Dimensions.get('window')
 
-export default class Login extends React.Component {
+export default class Chat extends React.Component {
+
+  
+  state = {
+    messages: [],
+  }
+
+  UNSAFE_componentWillMount() {
+    this.setState({
+      messages: [
+        {
+          _id: 1,
+          text: 'Hello developer',
+          createdAt: new Date(),
+          user: {
+            _id: 2,
+            name: 'React Native',
+            avatar: 'https://placeimg.com/140/140/any',
+          },
+        },
+      ],
+    })
+  }
+
+  onSend(messages = []) {
+    this.setState(previousState => ({
+      messages: GiftedChat.append(previousState.messages, messages),
+    }))
+  }
+
+
   render() {
 
 
@@ -40,19 +73,21 @@ export default class Login extends React.Component {
 
       
       <ImageBackground source={bgImage} style={styles.backgroundContainer}>
+            
+
             <View style={styles.logoContainer}>
-              <Image source={logo} style={styles.logo}/>
-              <Text style={styles.logoText}>CREW FINDER</Text>
+                    <GiftedChat
+                messages={this.state.messages}
+                onSend={messages => this.onSend(messages)}
+                user={{
+                  _id: 1,
+                }}
+              />
             </View>
 
            
 
-            <View style={styles.button}>
-            <Button
-              title="Login"
-              onPress={() => this.props.navigation.navigate('Page1')}
-              />
-            </View>
+            
             
            
 
@@ -71,9 +106,9 @@ export default class Login extends React.Component {
 
 const styles = StyleSheet.create({
     backgroundContainer: {
-      flex : 0 ,
+      flex : 1 ,
       width : '100%' ,
-      height : '100%' , 
+     
 
     },
 
@@ -90,9 +125,9 @@ const styles = StyleSheet.create({
       marginBottom : 30 ,
     },
     logoContainer:{
-      flex : 1 ,
-      alignItems: 'center',
-      marginTop : 60 ,
+      flex :2 ,
+      height : '100%' , 
+      
       
       
     },
@@ -116,7 +151,7 @@ const styles = StyleSheet.create({
     },
 
     button:{
-      flex : 1 ,
+      flex : 3 ,
       width : '100%' ,
       height : '100%' , 
       alignItems : "center" ,

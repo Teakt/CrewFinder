@@ -2,7 +2,10 @@
 
 import React from 'react'
 
+import Navigation from './navigation/Navigation'
 import Login from './components/Login'
+import Chat from './components/Chat'
+import Finder from './components/Finder'
 
 import {
   StyleSheet,
@@ -11,28 +14,51 @@ import {
   Image,
   ImageBackground,
   TextInput,
-  Dimensions
+  Dimensions,
+  Button
+  
 
 } from 'react-native'
 
 
 
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
 
 
 const { width: WIDTH } = Dimensions.get('window')
 
-export default class App extends React.Component {
+ class App extends React.Component {
+
+  
   render() {
+
+   
     return (
   
 
       <View>
-        <Login/>
+        
       </View>
       
-      
-      
+     
       
     )
   }
 }
+
+
+
+const AppNavigator = createStackNavigator(
+  {
+    Login: Login,
+    Page1: Finder,
+    Page2: Chat,
+    
+  },
+  {
+    initialRouteName: 'Login',
+  }
+);
+
+export default createAppContainer(AppNavigator);
