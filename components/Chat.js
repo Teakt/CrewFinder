@@ -30,6 +30,7 @@ export default class Chat extends React.Component {
   
   state = {
     messages: [],
+    titleText: "Messages",
   }
 
   UNSAFE_componentWillMount() {
@@ -37,11 +38,11 @@ export default class Chat extends React.Component {
       messages: [
         {
           _id: 1,
-          text: 'Hello developer',
+          text: 'Hello there, General Kenobi !',
           createdAt: new Date(),
           user: {
             _id: 2,
-            name: 'React Native',
+            name: 'Santa Claus',
             avatar: 'https://placeimg.com/140/140/any',
           },
         },
@@ -73,7 +74,15 @@ export default class Chat extends React.Component {
 
       
       <ImageBackground source={bgImage} style={styles.backgroundContainer}>
+            <View style={styles.messagesTitle}> 
+                    
+
             
+                      <Text style={styles.titleText} onPress={this.onPressTitle}>
+                          {this.state.titleText}{'\n'}{'\n'}
+                      </Text>
+                    
+            </View>
 
             <View style={styles.logoContainer}>
                     <GiftedChat
@@ -110,6 +119,23 @@ const styles = StyleSheet.create({
       width : '100%' ,
      
 
+    },
+
+
+    
+
+   
+    titleText: {
+      fontSize: 50,
+      fontWeight: 'bold',
+      color : 'white' ,
+      
+      fontStyle : 'italic' ,
+      
+      
+  
+     
+      
     },
 
     logoText:{
