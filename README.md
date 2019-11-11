@@ -14,9 +14,8 @@ For the “finder” page, we wanted to recreate something similar to the Tinder
 And lastly, for the “chat” page, we simply used <b>react-native-gifted-chat</b>, It’s a simple chat system, you can type messages in a chat bar, all the details can be found in <b>components/Chat.js.</b>
 
 
-![alt-text-1](auth.png "Authentification page") 
-<img align="left" height=500 width=250 src="auth.png">
-<img align="center" src="swipe.png">
-<img align="right" src="chat.png">
-![alt-text-2](swipe.png "Swipe cards") 
-![alt-text-3](chat.png "Chat")
+
+<img align="left" height=540 width=270 src="auth.png">
+<img align="center" height=540 width=270 src="swipe.png">
+<img align="right" height=540 width=270 src="chat.png">
+
