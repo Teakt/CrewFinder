@@ -15,4 +15,4 @@ And lastly, for the “chat” page, we simply used <b>react-native-gifted-chat<
 
 
 
-![alt-text-1](auth.png "Authentification page") | ![alt-text-2](swipe.png "Swipe cards") | ![alt-text-3](chat.png "Chat")
+![alt-text-1](auth.png "Authentification page")  |  ![alt-text-2](swipe.png "Swipe cards") | ![alt-text-3](chat.png "Chat")
