@@ -30,7 +30,7 @@ export default class Chat extends React.Component {
   
   state = {
     messages: [],
-    titleText: "Messages",
+    titleText: "MESSAGES:",
   }
 
   UNSAFE_componentWillMount() {
@@ -60,8 +60,7 @@ export default class Chat extends React.Component {
   render() {
 
 
-    var _this = this;
-
+   
 
 
 
@@ -79,7 +78,7 @@ export default class Chat extends React.Component {
 
             
                       <Text style={styles.titleText} onPress={this.onPressTitle}>
-                          {this.state.titleText}{'\n'}{'\n'}
+                          {this.state.titleText}
                       </Text>
                     
             </View>
@@ -126,11 +125,15 @@ const styles = StyleSheet.create({
 
    
     titleText: {
-      fontSize: 50,
-      fontWeight: 'bold',
+      borderWidth : 0.2,
+      borderColor : 'white',
       color : 'white' ,
+      fontSize : 32 , 
+      fontWeight : '800',
+      padding : 10 ,
       
-      fontStyle : 'italic' ,
+      marginRight : 190 ,
+     
       
       
   
