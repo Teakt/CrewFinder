@@ -7,9 +7,7 @@ Crew Finder helps you find your team mate for a project. With the Tinder app mod
 
 ## Technical sheet
 
-<img src="auth.png"  width="247" height="512">
-<img src="swipe.png" alt="dubai" width="247" height="512">
-<img src="chat.png" alt="dubai" width="247" height="512">
+![alt-text-1](auth.png "Authentification page") ![alt-text-2](swipe.png "Swipe cards") ![alt-text-3](chat.png "Chat")
 We have three pages. One for the authentification system, another one to see the different cards and a chat. 
 For the Login page, we decided to use a simple button to access the other pages, to do that, we used <b>react-native-navigation</b> and <b>react-native-navigation-stack</b>, you can find the navigation in the <b>components/App.js.</b>
 For the “finder” page, we wanted to recreate something similar to the Tinder app swipe system, we used PanResponder from react-native to do so, you can find all the details in <b>components/Finder.js</b>.
