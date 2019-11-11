@@ -16,16 +16,16 @@ import {
 
 } from 'react-native'
 
-const Users = [
+let Users = [
   
-  { id : "1" , uri: require('../assets/1.jpg')}, 
-  { id : "2" , uri: require('../assets/2.jpg')},
-  { id : "3" , uri: require('../assets/3.jpg')},
-  { id : "4" , uri: require('../assets/4.jpg')},
-  { id : "5" , uri: require('../assets/5.jpg')},
-  { id : "6" , uri: require('../assets/6.jpg')},
-  { id : "7" , uri: require('../assets/7.jpg')},
-  { id : "8" , uri: require('../assets/8.jpg')},
+  { id : "1" , uri: require('../assets/1.jpg') , skill : "C++" , name : "Robert BUI" , function : "Student"},
+  { id : "2" , uri: require('../assets/2.jpg'),  skill : "Node.js" , name : "Joseph BANZIO" , function : "Secretary General"}, 
+  { id : "3" , uri: require('../assets/3.jpg'),  skill : "C" , name : "Beker BAWILU" , function : "Steak Eater"},
+  { id : "4" , uri: require('../assets/4.jpg'),  skill : "Word/Excel" , name : "Bill GATES" , function : "Former CEO of Microsoft"},
+  { id : "5" , uri: require('../assets/5.jpg') ,skill : "Google Form" , name : "Sundar PICHAI" , function : "CEO of Google"},
+  { id : "6" , uri: require('../assets/6.jpg'),skill : "HTML/CSS" , name : "Marissa MAYER" , function : "CEO of Yahoo"},
+  { id : "7" , uri: require('../assets/7.jpg'),skill : "C++" , name : "Mark ZUKENBERG" , function : "CEO of Facebook"},
+  { id : "8" , uri: require('../assets/8.jpg'),skill : "C#" , name : "Guillaume TEAK" , function : "Game Developer"},
 ]
 
 import bgImage from '../images/background.png'
@@ -145,7 +145,7 @@ export default class Finder extends React.Component {
 
            <Animated.View style={{opacity : this.likeOpacity  , transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
               <Text style={styles.like}>
-                LIKE
+                LIKE 
               </Text>
 
 
@@ -169,7 +169,11 @@ export default class Finder extends React.Component {
                       style={styles.users}
                       source = {item.uri} 
                     />
-  
+                    <Text style={styles.description}>
+                       <Text style={styles.nom}>
+                        {item.name}
+                         </Text>{"\n"}{item.skill}{"\n"}{item.function}
+                    </Text>
                     
            </Animated.View>
         )
@@ -188,12 +192,14 @@ export default class Finder extends React.Component {
 
            <Animated.View style={{opacity : 0  , transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
               <Text style={styles.like}>
-                LIKE
+                LIKE 
               </Text>
 
 
 
            </Animated.View>
+
+           
 
            <Animated.View style={{opacity : 0 ,transform : [ {rotate: '30deg'}],position : 'absolute' , top : 30 , right : 30,zIndex : 1000 }} >
               <Text style={styles.nope}>
@@ -212,6 +218,11 @@ export default class Finder extends React.Component {
                       style={styles.users}
                       source = {item.uri} 
                     />
+                    <Text style={styles.descriptionbis}>
+                       <Text style={{color : "black"}}>
+                        {item.name}
+                         </Text>{"\n"}{item.skill}{"\n"}{item.function}
+                    </Text>
   
                     
            </Animated.View>
@@ -300,6 +311,38 @@ const styles = StyleSheet.create({
       
 
     },
+    description: {
+      borderWidth : 1,
+      borderColor : 'white',
+      color : 'white' ,
+      fontSize : 32 , 
+      fontWeight : '800',
+      padding : 10 ,
+      textAlign : "center" ,
+
+    },
+
+    descriptionbis: {
+      borderWidth : 1,
+      borderColor : 'white',
+      color : 'white' ,
+      fontSize : 32 , 
+      fontWeight : '800',
+      padding : 10 ,
+      textAlign : "center" ,
+      opacity : 0 ,
+    },
+
+    nom: {
+      
+      color : 'gold' ,
+      fontSize : 40 , 
+      fontWeight : '800',
+    
+    
+    },
+
+   
     backgroundContainer: {
       flex : 1 ,
       
