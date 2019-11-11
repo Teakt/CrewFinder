@@ -143,7 +143,7 @@ export default class Finder extends React.Component {
            HEIGHT - 120, width : WIDTH , padding :  40 , position : 
            'absolute'}]}>
 
-           <Animated.View style={{opacity : this.likeOpacity } , {transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
+           <Animated.View style={{opacity : this.likeOpacity  , transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
               <Text style={styles.like}>
                 LIKE
               </Text>
@@ -152,7 +152,7 @@ export default class Finder extends React.Component {
 
            </Animated.View>
 
-           <Animated.View style={{opacity : this.dislikeOpacity },{transform : [ {rotate: '30deg'}],position : 'absolute' , top : 30 , right : 30,zIndex : 1000 }} >
+           <Animated.View style={{opacity : this.dislikeOpacity ,transform : [ {rotate: '30deg'}],position : 'absolute' , top : 30 , right : 30,zIndex : 1000 }} >
               <Text style={styles.nope}>
                 NOPE
               </Text>
@@ -186,7 +186,7 @@ export default class Finder extends React.Component {
            'absolute',
            }]}>
 
-           <Animated.View style={{opacity : this.likeOpacity } , {transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
+           <Animated.View style={{opacity : 0  , transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
               <Text style={styles.like}>
                 LIKE
               </Text>
@@ -195,7 +195,7 @@ export default class Finder extends React.Component {
 
            </Animated.View>
 
-           <Animated.View style={{opacity : this.dislikeOpacity },{transform : [ {rotate: '30deg'}],position : 'absolute' , top : 30 , right : 30,zIndex : 1000 }} >
+           <Animated.View style={{opacity : 0 ,transform : [ {rotate: '30deg'}],position : 'absolute' , top : 30 , right : 30,zIndex : 1000 }} >
               <Text style={styles.nope}>
                 NOPE
               </Text>
