@@ -18,7 +18,7 @@ import {
 
 const Users = [
   
-  { id : "1" , uri: require('../assets/1.jpg')},
+  { id : "1" , uri: require('../assets/1.jpg')}, 
   { id : "2" , uri: require('../assets/2.jpg')},
   { id : "3" , uri: require('../assets/3.jpg')},
   { id : "4" , uri: require('../assets/4.jpg')},
@@ -59,7 +59,37 @@ export default class Finder extends React.Component {
     
       ]
       }
-    }
+
+
+
+      this.likeOpacity = this.position.x.interpolate({
+        inputRange: [-WIDTH / 2, 0 , WIDTH/2],
+        outputRange: [0, 0, 1],
+        extrapolate: 'clamp'
+      })
+
+
+      this.dislikeOpacity = this.position.x.interpolate({
+        inputRange: [-WIDTH / 2, 0 , WIDTH/2],
+        outputRange: [1, 0, 0],
+        extrapolate: 'clamp'
+      })
+
+      this.nextCardOpacity = this.position.x.interpolate({
+        inputRange: [-WIDTH / 2, 0 , WIDTH/2],
+        outputRange: [1, 0, 1],
+        extrapolate: 'clamp'
+      })
+
+      this.nextCardScale = this.position.x.interpolate({
+        inputRange: [-WIDTH / 2, 0 , WIDTH/2],
+        outputRange: [1, 0.8, 1],
+        extrapolate: 'clamp'
+      })
+   }
+
+    
+
     UNSAFE_componentWillMount(){
     this.PanResponder = PanResponder.create({
       onStartShouldSetPanResponder: (evt , gestureState ) => true ,
@@ -68,6 +98,33 @@ export default class Finder extends React.Component {
       },
       onPanResponderRelease:(evt , gestureState) => {
         
+        if(gestureState.dx>120){
+          Animated.spring(this.position,{
+            toValue:{x:WIDTH+100,y:gestureState.dy}
+          }).start(()=>{
+            this.setState({currentIndex:this.state.currentIndex+1}, ()=>{
+              this.position.setValue({x:0,y:0})
+            })
+          })
+        }
+        else if(gestureState.dx < -120){
+          Animated.spring(this.position,{
+            toValue:{x:-WIDTH-100,y:gestureState.dy}
+          }).start(()=>{
+            this.setState({currentIndex:this.state.currentIndex+1}, ()=>{
+              this.position.setValue({x:0,y:0})
+            })
+          })
+        }
+        else {
+          
+          Animated.spring(this.position,{
+            toValue:{x:0,y:0},
+            friction : 4 
+
+          }).start()
+        
+        }
       }
     })
   }
@@ -82,7 +139,27 @@ export default class Finder extends React.Component {
         return (
           <Animated.View
            {...this.PanResponder.panHandlers}
-           key={item.id} style={[this.rotateAndTranslate,{height: HEIGHT - 120, width : WIDTH , padding :  40 , position : 'absolute'}]}>
+           key={item.id} style={[this.rotateAndTranslate,{height:
+           HEIGHT - 120, width : WIDTH , padding :  40 , position : 
+           'absolute'}]}>
+
+           <Animated.View style={{opacity : this.likeOpacity } , {transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
+              <Text style={styles.like}>
+                LIKE
+              </Text>
+
+
+
+           </Animated.View>
+
+           <Animated.View style={{opacity : this.dislikeOpacity },{transform : [ {rotate: '30deg'}],position : 'absolute' , top : 30 , right : 30,zIndex : 1000 }} >
+              <Text style={styles.nope}>
+                NOPE
+              </Text>
+
+
+
+           </Animated.View>
                     
                     
                     
@@ -94,14 +171,38 @@ export default class Finder extends React.Component {
                     />
   
                     
-                </Animated.View>
+           </Animated.View>
         )
       }
       else {
         return (
           <Animated.View
-          
-           key={item.id} style={{height: HEIGHT - 120, width : WIDTH , padding :  40 , position : 'absolute'}}>
+           
+           key={item.id} style={[{
+             opacity : this.nextCardOpacity,
+             transform: [{scale : this.nextCardScale}],
+             height:
+           HEIGHT - 120, width : WIDTH , padding :  40 , position : 
+           'absolute',
+           }]}>
+
+           <Animated.View style={{opacity : this.likeOpacity } , {transform : [ {rotate: '-30deg'}],position : 'absolute' , top : 30 , left : 30,zIndex : 1000 }} >
+              <Text style={styles.like}>
+                LIKE
+              </Text>
+
+
+
+           </Animated.View>
+
+           <Animated.View style={{opacity : this.dislikeOpacity },{transform : [ {rotate: '30deg'}],position : 'absolute' , top : 30 , right : 30,zIndex : 1000 }} >
+              <Text style={styles.nope}>
+                NOPE
+              </Text>
+
+
+
+           </Animated.View>
                     
                     
                     
@@ -113,7 +214,7 @@ export default class Finder extends React.Component {
                     />
   
                     
-                </Animated.View>
+           </Animated.View>
         )
   
       }
@@ -129,7 +230,7 @@ export default class Finder extends React.Component {
   render() {
 
 
-    var _this = this;
+    
 
 
 
@@ -179,6 +280,26 @@ export default class Finder extends React.Component {
 
 
 const styles = StyleSheet.create({
+    like: {
+      borderWidth : 1,
+      borderColor : 'cyan',
+      color : 'cyan' ,
+      fontSize : 32 , 
+      fontWeight : '800',
+      padding : 10 
+      
+
+    },
+    nope: {
+      borderWidth : 1,
+      borderColor : 'red',
+      color : 'red' ,
+      fontSize : 32 , 
+      fontWeight : '800',
+      padding : 10 
+      
+
+    },
     backgroundContainer: {
       flex : 1 ,
       
