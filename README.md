@@ -17,7 +17,7 @@ And lastly, for the “chat” page, we simply used <b>react-native-gifted-chat<
 
 ![alt-text-1](auth.png "Authentification page")  |  ![alt-text-2](swipe.png "Swipe cards") | ![alt-text-3](chat.png "Chat")
 <p float="left">
-  <img src="auth.png" width="100" />
-  <img src="swipe.png" width="100" /> 
-  <img src="chat.png" width="100" />
+  <img src="auth.png" width="130" />
+  <img src="swipe.png" width="130" /> 
+  <img src="chat.png" width="130" />
 </p>
